@@ -27,7 +27,7 @@ arguments:
   - name: ca-key
     description: Certificate Authoritys private key to sign this certificate.
     default_value: ca  
-source_url: "https://github.com/christianlempa/dotfiles"
-author: Christian Lempa
-author_url: "https://github.com/christianlempa"
+source_url: "https://github.com/madchristian/dotfiles"
+author: Christian Strube
+author_url: "https://github.com/madchristian"
 shells: []

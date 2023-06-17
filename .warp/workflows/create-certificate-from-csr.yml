@@ -20,7 +20,7 @@ arguments:
   - name: ca-key
     description: CA
     default_value: your-dns-record    
-source_url: "https://github.com/christianlempa/dotfiles"
-author: Christian Lempa
-author_url: "https://github.com/christianlempa"
+source_url: "https://github.com/madchristian/dotfiles"
+author: Christian Strube
+author_url: "https://github.com/madchristian"
 shells: []

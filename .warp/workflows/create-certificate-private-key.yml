@@ -14,7 +14,7 @@ arguments:
   - name: length
     description: Key Length
     default_value: 4096
-source_url: "https://github.com/christianlempa/dotfiles"
-author: Christian Lempa
-author_url: "https://github.com/christianlempa"
+source_url: "https://github.com/madchristian/dotfiles"
+author: Christian Strube
+author_url: "https://github.com/madchristian"
 shells: []

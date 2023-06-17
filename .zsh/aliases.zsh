@@ -19,8 +19,8 @@ alias ll="exa --icons --group-directories-first -l"
 alias g="goto"
 alias grep='grep --color'
 
-alias cbp="code /home/xcad/obsidianvault/boilerplates"
-alias cpr="code /home/xcad/obsidianvault/projects"
+alias cbp="code /home/christian/obsidianvault/boilerplates"
+alias cpr="code /home/christian/obsidianvault/projects"
 
 # Scripts
-alias repos="op run --env-file="/Users/xcad/.env" -- python3 /Users/xcad/Projects/christianlempa/scripts/repos"
+alias repos="op run --env-file="/Users/christian/.env" -- python3 /Users/xcad/Projects/christianlempa/scripts/repos"
